@@ -1,6 +1,6 @@
 title: 双系统重装Windows修复引导grub2
 date: 2016-05-15 00:24:50
-tags:
+tags: [双系统, grub2]
 ---
 
 ###### OS：openSuSE Leap-42.1 Win8

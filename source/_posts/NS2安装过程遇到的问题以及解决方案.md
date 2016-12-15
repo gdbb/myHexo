@@ -1,6 +1,6 @@
 title: NS2安装过程遇到的问题以及解决方案.md
 date: 2016-12-14 16:54:36
-tags:
+tags: [NS2]
 ---
 
 #### OS：openSuSE Leap-42.1

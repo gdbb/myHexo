@@ -1,6 +1,6 @@
 title: python-matplotlib后端设置
 date: 2015-12-21 21:46:23
-tags:
+tags: [python, matplotlib]
 ---
 
 ###### OS：openSuSE Leap-42.1
